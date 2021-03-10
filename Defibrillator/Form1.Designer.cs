@@ -116,7 +116,7 @@ namespace Defibrillator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Yellow;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(123)))), ((int)(((byte)(182)))));
             this.ClientSize = new System.Drawing.Size(384, 461);
             this.Controls.Add(this.btnKilepes);
             this.Controls.Add(this.btnUjAdat);
